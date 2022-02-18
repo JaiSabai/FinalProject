@@ -103,19 +103,21 @@ p{
 .box1, .box2, .box3, .box4{
     height: 850px;
     width: 100%;
-    border:5px solid #FFF;
-    margin: 10px;
-    padding-bottom: 50px;
+    border-bottom: 30%;
+    border-top: 30%;
+    margin: 80px;
+    padding-bottom: 65px;
     color: #FFF;
     font-size: 23px;
     background-color: #000;
     object-fit: contain;
-    bottom: auto;
+    bottom:0%;
     
     /* aligns boxes horizontally */
-    display: inline-block;
+    display:flexbox;
 }
 .container{
     text-align: center;
     color: #fff;
+    object-fit:contain;
 }
