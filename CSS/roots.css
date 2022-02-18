@@ -127,6 +127,15 @@ a:visited {
     text-align: center;
     height: 20%;
 }
+.google-map{
+    position: absoulte;
+    float: bottom;
+    padding:180%;
+    left: 50px;
+    right: 50px;
+    margin:auto;
+}
+
 aside{background-color:darkolivegreen;
 height:35%}
 
